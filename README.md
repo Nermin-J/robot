@@ -1,3 +1,3 @@
 Online programming of a Robot 
 
-Robot is constructed of 4 servo motors.
+Robot is constructed using 4 servo motors.
